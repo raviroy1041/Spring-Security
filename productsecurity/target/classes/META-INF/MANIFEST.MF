@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: productsecurity
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ravi.kumar3
+Implementation-Vendor-Id: com.ravi.restws
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/productsecurity
+Created-By: Maven Integration for Eclipse
+
